@@ -303,12 +303,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "3000",
+            "slides__autoplayInterval": "4000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/-1600x900.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -342,7 +342,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-3-600x337.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -353,7 +353,7 @@
                 "customStyle3": "display-4",
                 "title": "شاهد مايحدث الآن &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
