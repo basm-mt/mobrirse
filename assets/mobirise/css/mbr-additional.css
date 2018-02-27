@@ -2023,7 +2023,7 @@ body {
   padding-top: 1.5rem;
 }
 .cid-qKHP9VzUE4 .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qKHP9VzUE4 .card-wrapper {
   height: 100%;
@@ -2035,6 +2035,9 @@ body {
 .cid-qKHP9VzUE4 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-qKHP9VzUE4 .card-title {
+  color: #ffffff;
 }
 .cid-qKGDjRY3g4 {
   padding-top: 60px;
