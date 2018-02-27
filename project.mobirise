@@ -337,7 +337,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<p><b>شاهد مايحدث الآن &nbsp;&nbsp;</b></p>",
+                "title": "<p><b>شاهد مايحدث الآن</b></p>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "",
