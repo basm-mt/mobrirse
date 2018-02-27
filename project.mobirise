@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": ".html",
+    "currentPage": "echat.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "4.6.5",
@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    ".html": {
+    "echat.html": {
       "settings": {
         "main": true,
         "title": "echat",
