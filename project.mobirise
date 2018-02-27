@@ -303,12 +303,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "2000",
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-1600x900.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-3-600x337.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -317,11 +317,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "استمتع واستفد&nbsp;",
+                "title": "شاهد مايحدث الآن &nbsp; &nbsp;&nbsp;",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "عبر حساباتنا في السوشل ميديا<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-1-702x351.jpg",
@@ -337,12 +337,12 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "عبر متابعة تغطياتنا للفعاليات والمؤتمرات والمعارض (لايف) على الهواء مباشرة&nbsp;<br>الثقافية والاقتصادية والتقنية والترفيهية \n<br>&nbsp;",
+                "text": "اشترك معنا لمتابعة تغطياتنا للفعاليات والمؤتمرات والمعارض (لايف) على الهواء مباشرة&nbsp;<br>الثقافية والاقتصادية والتقنية والترفيهية \n<br>&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-3-600x337.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-1600x900.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -351,11 +351,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "شاهد مايحدث الآن &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+                "title": "استمتع واستفد",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "contentAlign": "right",
+                "text": "عبر حساباتنا في السوشل ميديا<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           }
